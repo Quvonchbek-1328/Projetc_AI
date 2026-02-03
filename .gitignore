@@ -17,9 +17,9 @@ build/
 *.egg-info/
 
 # Project Artifacts (too large for git usually, or generated)
-dataset/
-models/
-*.png
+# dataset/
+# models/
+# *.png
 *.log
 
 # IDE
